@@ -1,8 +1,7 @@
 import java.util.HashMap;
 
 /**
- * Author: Roman <RPKuznetsov@GMail.com>
- * Date: 03.02.2017.
+ * Morse code table
  */
 public class MorseCode {
     private static final HashMap<String, String> MORSE_CODE = new HashMap<String, String>() {{
